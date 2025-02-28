@@ -41,7 +41,7 @@ public class Tugas {
         System.out.println("Masukkan NIM: ");
         String passwordmahasiswa = penginput.nextLine();
 
-        if (usernamemahasiswa.equals("Ilham Antonika Wijaya" ) && passwordmahasiswa.equals("202410370110452")) {
+        if (usernamemahasiswa.equals("Fawwaz Ainun Hisyam" ) && passwordmahasiswa.equals("202410370110178")) {
             System.out.println("Login Mahasiswa Berhasil!");
             System.out.println("Nama : "+usernamemahasiswa);
             System.out.println("NIM : "+passwordmahasiswa);
