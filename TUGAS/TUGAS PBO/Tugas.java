@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Tugas {
     private static Scanner penginput = new Scanner(System.in);
 
     public static void main(String[] args) {
